@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Secrets and credentials
+*.pem
+*.key
+*.json
+.env
+.env.*
+
+# Large or confidential raw data
+data/raw/*
+!data/raw/.gitkeep
+
+# Temporary outputs
+results/logs/*.tmp
+*.log
+
+# Package archives
+*.zip
+*.tar.gz

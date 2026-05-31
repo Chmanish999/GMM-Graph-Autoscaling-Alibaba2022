@@ -1,0 +1,32 @@
+{
+  "project_name": "GMM-Graph-Autoscaling-Alibaba2022",
+  "paper_title": "GMM\u2013EM Enhanced Graph-Aware Autoscaling Evaluation for Container-Based Microservice Cloud Environments",
+  "language": "Python",
+  "files_copied": [
+    "data/processed/autoscaling_trace_dataset.csv",
+    "data/processed/service_graph_edges_sample.csv",
+    "notebooks/Alibaba_GMM_Graph_RL_Autoscaling_Ablation_Extension.ipynb"
+  ],
+  "dataset_shapes": {
+    "autoscaling_trace_dataset.csv": [
+      1907,
+      17
+    ],
+    "service_graph_edges_sample.csv": [
+      299999,
+      5
+    ]
+  },
+  "created_folders": [
+    "data/raw",
+    "data/processed",
+    "data/sample",
+    "src",
+    "notebooks",
+    "results/tables",
+    "results/figures",
+    "results/logs",
+    "docs",
+    "archive"
+  ]
+}

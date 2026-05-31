@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If this private research code is used for verification, please cite the associated manuscript."
+title: "GMM–EM Enhanced Graph-Aware Autoscaling Evaluation for Container-Based Microservice Cloud Environments"
+authors:
+  - family-names: "Chhabra"
+    given-names: "Manish"
+    email: "manishchabra77@gmail.com"
+version: "1.0.0"
+date-released: "2026-05-31"
+repository-code: "Private repository: GMM-Graph-Autoscaling-Alibaba2022"
+keywords:
+  - cloud computing
+  - autoscaling
+  - microservices
+  - GMM-EM
+  - graph-aware autoscaling
+  - Alibaba Microservices Trace 2022
+license: "LicenseRef-All-Rights-Reserved"

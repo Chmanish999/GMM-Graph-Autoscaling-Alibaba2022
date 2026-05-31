@@ -1,0 +1,9 @@
+Copyright (c) 2026 Manish Chhabra.
+
+All rights reserved.
+
+This code repository is maintained for academic authentication, reviewer verification, and reproducibility tracking of the associated research work.
+
+No permission is granted for reuse, redistribution, modification, commercial use, public hosting, or creation of derivative works without prior written permission from the author.
+
+The repository may be shared privately with editors or reviewers solely for the purpose of verifying the submitted research work.
